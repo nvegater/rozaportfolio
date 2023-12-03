@@ -5,6 +5,17 @@
 await import("./src/env.js");
 
 /** @type {import("next").NextConfig} */
-const config = {};
+const config = {
+  images: {
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "d2yhylprzvt9g1.cloudfront.net",
+        port: "",
+        pathname: "/**",
+      },
+    ],
+  },
+};
 
 export default config;

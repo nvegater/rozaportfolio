@@ -1,37 +1,55 @@
-import Link from "next/link";
+import Image from "next/image";
 
 export default function HomePage() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center bg-gradient-to-b from-[#2e026d] to-[#15162c] text-white">
-      <div className="container flex flex-col items-center justify-center gap-12 px-4 py-16 ">
-        <h1 className="text-5xl font-extrabold tracking-tight text-white sm:text-[5rem]">
-          Create <span className="text-[hsl(280,100%,70%)]">T3</span> App
-        </h1>
-        <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 md:gap-8">
-          <Link
-            className="flex max-w-xs flex-col gap-4 rounded-xl bg-white/10 p-4 text-white hover:bg-white/20"
-            href="https://create.t3.gg/en/usage/first-steps"
-            target="_blank"
-          >
-            <h3 className="text-2xl font-bold">First Steps →</h3>
-            <div className="text-lg">
-              Just the basics - Everything you need to know to set up your
-              database and authentication.
-            </div>
-          </Link>
-          <Link
-            className="flex max-w-xs flex-col gap-4 rounded-xl bg-white/10 p-4 text-white hover:bg-white/20"
-            href="https://create.t3.gg/en/introduction"
-            target="_blank"
-          >
-            <h3 className="text-2xl font-bold">Documentation →</h3>
-            <div className="text-lg">
-              Learn more about Create T3 App, the libraries it uses, and how to
-              deploy it.
-            </div>
-          </Link>
-        </div>
+    <div
+      id="profile-container"
+      className="flex h-[100vh] bg-[#191923] text-white"
+    >
+      <div id="background-image" className="relative w-1/5">
+        <Image
+          src="https://d2yhylprzvt9g1.cloudfront.net/home-roza.jpg"
+          alt="background image"
+          layout="fill"
+          objectFit="cover"
+        />
       </div>
-    </main>
+      <section
+        id="bio"
+        className="grid-rows-10 relative grid w-4/5 grid-cols-5 pl-12"
+      >
+        <div className="col-start-1 col-end-3 row-start-3 row-end-7 text-justify">
+          <p className="text-sm">
+            I am 24 years old, I take photos, I travel, I dance, I teach yoga, I
+            feel. When I turned 18, I started traveling around the world on my
+            own. I have been to 35 countries and worked in 4. I encourage young
+            girls to overcome fear and travel alone into the unknown. I try to
+            bring stories from my travels in the form of stories of amazing
+            people and photographs of places that take a breath away. In
+            addition, I photograph commercially, I worked in marketing for
+            several years, I created social media for few Polish festivals and
+            sports events, and I ran a restaurant in Norway.
+          </p>
+          <br />
+          <p className="text-sm">
+            If you think that we can start cooperation in the area of
+            photography, marketing, social media, wellness in general, yoga,
+            travelling lectures or other event , let me know.
+          </p>
+          <br />
+          <p className="text-sm"> Let's get to know each other!</p>
+          <br />
+          <div className="flex flex-col">
+            <span className="text-end text-sm font-bold">+48 730 522 524</span>
+            <span className="text-end text-sm font-bold">
+              czarnota.roza@gmail.com
+            </span>
+          </div>
+        </div>
+        <div className="absolute bottom-0 right-0 mb-8 mr-8 md:mb-24 md:mr-24">
+          <p className="text-5xl">rozaczarnota</p>
+        </div>
+      </section>
+    </div>
   );
 }
