@@ -20,21 +20,15 @@ export default function HomePage() {
       >
         <div className="col-start-1 col-end-3 row-start-3 row-end-7 text-justify">
           <p className="text-sm">
-            Hello!, I am 24 years old, I take photos, I travel, I dance, I teach yoga, I
-            feel. When I turned 18, I started traveling around the world on my
-            own. I have been to 35 countries and worked in 4. I encourage young
-            girls to overcome fear and travel alone into the unknown. I try to
-            bring stories from my travels in the form of stories of amazing
-            people and photographs of places that take a breath away. In
-            addition, I photograph commercially, I worked in marketing for
-            several years, I created social media for few Polish festivals and
-            sports events, and I ran a restaurant in Norway.
+            Hi! Nice to have you on the website. Here I’m creating space to share travel experience, peoples’s stories and photos. 
           </p>
           <br />
           <p className="text-sm">
-            If you think that we can start cooperation in the area of
-            photography, marketing, social media, wellness in general, yoga,
-            travelling lectures or other event , let me know.
+            Since I was 18 years old, I’ve been travelling to 35 countries. Solo travels are the best way to understand the world and being amazed by beauty of nature. It has also enriched my personality. So here I’ll share with you my stories and hope to encore you to travel and experience as well. Professionally I’m working in marketing, social media and as a yoga teacher. By passion I’m making photography and music.
+          </p>
+          <br />
+          <p className="text-sm">
+            If you would like to start some cooperation together please don’t stop to contact me! :)
           </p>
           <br />
           <p className="text-sm"> Let's get to know each other!</p>
