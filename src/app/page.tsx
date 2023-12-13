@@ -20,7 +20,7 @@ export default function HomePage() {
       >
         <div className="col-start-1 col-end-3 row-start-3 row-end-7 text-justify">
           <p className="text-sm">
-            I am 24 years old, I take photos, I travel, I dance, I teach yoga, I
+            Hello!, I am 24 years old, I take photos, I travel, I dance, I teach yoga, I
             feel. When I turned 18, I started traveling around the world on my
             own. I have been to 35 countries and worked in 4. I encourage young
             girls to overcome fear and travel alone into the unknown. I try to
