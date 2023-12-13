@@ -27,13 +27,7 @@ export default function RootLayout({
           <div className="my-4 flex w-4/5 justify-end">
             <nav id="navigation" className="pr-8">
               <Link href="/" className="mr-2 text-lg text-black">
-                HOME |
-              </Link>
-              <Link href="#" className="mr-2 text-lg text-black">
-                GALLERY |
-              </Link>
-              <Link href="#" className="mr-4 text-lg text-black">
-                balance.travels
+                HOME
               </Link>
             </nav>
           </div>
