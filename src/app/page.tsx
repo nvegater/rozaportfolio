@@ -20,18 +20,15 @@ export default function HomePage() {
       >
         <div className="col-start-1 col-end-3 row-start-3 row-end-7 text-justify">
           <p className="text-sm">
-            Hi! Nice to have you on the website. Here I’m creating space to share travel experience, peoples’s stories and photos. 
+            Hi! Welcome to rozaczarnota.com. Here I’m sharing travel experience, peoples’s stories and photos. 
           </p>
           <br />
           <p className="text-sm">
-            Since I was 18 years old, I’ve been travelling to 35 countries. Solo travels are the best way to understand the world and being amazed by beauty of nature. It has also enriched my personality. So here I’ll share with you my stories and hope to encore you to travel and experience as well. Professionally I’m working in marketing, social media and as a yoga teacher. By passion I’m making photography and music.
-          </p>
+            Since I was 18 years old, I’ve been travelling to 35 countries. Solo travel is the best way to understand the world and being amazed by the beauty of nature. Travelling has also broaden my personality. I hope this website will encourage you to travel more and experience different cultures. Professionally, I’m working in marketing, social media and also as a yoga teacher. My passion is photography and music.          </p>
           <br />
           <p className="text-sm">
-            If you would like to start some cooperation together please don’t stop to contact me! :)
+            If you would like to partner together please don’t hesitate to contact me.
           </p>
-          <br />
-          <p className="text-sm"> Let's get to know each other!</p>
           <br />
           <div className="flex flex-col">
             <span className="text-end text-sm font-bold">+48 730 522 524</span>
