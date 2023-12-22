@@ -10,7 +10,7 @@ const config = {
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "d2yhylprzvt9g1.cloudfront.net",
+        hostname: "d34ftjh07pyt8l.cloudfront.net",
         port: "",
         pathname: "/**",
       },

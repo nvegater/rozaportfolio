@@ -8,7 +8,7 @@ export default function HomePage() {
     >
       <div id="background-image" className="relative w-1/5">
         <Image
-          src="https://d2yhylprzvt9g1.cloudfront.net/home-roza.jpg"
+          src="https://d34ftjh07pyt8l.cloudfront.net/Roza.jpg"
           alt="background image"
           layout="fill"
           objectFit="cover"
