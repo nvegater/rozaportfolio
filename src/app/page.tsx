@@ -20,24 +20,15 @@ export default function HomePage() {
       >
         <div className="col-start-1 col-end-3 row-start-3 row-end-7 text-justify">
           <p className="text-sm">
-            I am 24 years old, I take photos, I travel, I dance, I teach yoga, I
-            feel. When I turned 18, I started traveling around the world on my
-            own. I have been to 35 countries and worked in 4. I encourage young
-            girls to overcome fear and travel alone into the unknown. I try to
-            bring stories from my travels in the form of stories of amazing
-            people and photographs of places that take a breath away. In
-            addition, I photograph commercially, I worked in marketing for
-            several years, I created social media for few Polish festivals and
-            sports events, and I ran a restaurant in Norway.
+            Hi! Welcome to rozaczarnota.com. Here I’m sharing travel experience, peoples’s stories and photos. 
           </p>
           <br />
           <p className="text-sm">
-            If you think that we can start cooperation in the area of
-            photography, marketing, social media, wellness in general, yoga,
-            travelling lectures or other event , let me know.
-          </p>
+            Since I was 18 years old, I’ve been travelling to 35 countries. Solo travel is the best way to understand the world and being amazed by the beauty of nature. Travelling has also broaden my personality. I hope this website will encourage you to travel more and experience different cultures. Professionally, I’m working in marketing, social media and also as a yoga teacher. My passion is photography and music.          </p>
           <br />
-          <p className="text-sm"> Let's get to know each other!</p>
+          <p className="text-sm">
+            If you would like to partner together please don’t hesitate to contact me.
+          </p>
           <br />
           <div className="flex flex-col">
             <span className="text-end text-sm font-bold">+48 730 522 524</span>

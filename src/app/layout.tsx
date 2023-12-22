@@ -2,7 +2,7 @@ import "~/styles/globals.css";
 
 import { Inter } from "next/font/google";
 import Link from "next/link";
-import { ReactNode } from "react";
+import { type ReactNode } from "react";
 
 const inter = Inter({
   subsets: ["latin"],
