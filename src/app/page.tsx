@@ -20,14 +20,15 @@ export default function HomePage() {
       >
         <div className="col-start-1 col-end-3 row-start-3 row-end-7 text-justify">
           <p className="text-sm">
-            Hi! Welcome to rozaczarnota.com. Here I’m sharing travel experience, peoples’s stories and photos. 
+            photography 
           </p>
           <br />
           <p className="text-sm">
-            Since I was 18 years old, I’ve been travelling to 35 countries. Solo travel is the best way to understand the world and being amazed by the beauty of nature. Travelling has also broaden my personality. I hope this website will encourage you to travel more and experience different cultures. Professionally, I’m working in marketing, social media and also as a yoga teacher. My passion is photography and music.          </p>
+          travels  
+          </p>
           <br />
           <p className="text-sm">
-            If you would like to partner together please don’t hesitate to contact me.
+            graphic content
           </p>
           <br />
           <div className="flex flex-col">
