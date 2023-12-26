@@ -19,6 +19,18 @@ export default function HomePage() {
         className="grid-rows-10 relative grid w-4/5 grid-cols-5 pl-12"
       >
         <div className="col-start-1 col-end-3 row-start-3 row-end-7 text-justify">
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+
           <p className="text-sm">
             photography 
           </p>
